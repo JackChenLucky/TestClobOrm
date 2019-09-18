@@ -1,0 +1,14 @@
+D:\TestRoom\github\ScFramework\TestClobOrm\obj\Debug\TestClobOrm.csprojResolveAssemblyReference.cache
+D:\TestRoom\github\ScFramework\TestClobOrm\obj\Debug\TestClobOrm.Form1.resources
+D:\TestRoom\github\ScFramework\TestClobOrm\obj\Debug\TestClobOrm.Properties.Resources.resources
+D:\TestRoom\github\ScFramework\TestClobOrm\obj\Debug\TestClobOrm.csproj.GenerateResource.Cache
+D:\TestRoom\github\ScFramework\TestClobOrm\bin\Debug\TestClobOrm.exe.config
+D:\TestRoom\github\ScFramework\TestClobOrm\bin\Debug\TestClobOrm.exe
+D:\TestRoom\github\ScFramework\TestClobOrm\bin\Debug\TestClobOrm.pdb
+D:\TestRoom\github\ScFramework\TestClobOrm\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\TestRoom\github\ScFramework\TestClobOrm\bin\Debug\SqlSugar.dll
+D:\TestRoom\github\ScFramework\TestClobOrm\obj\Debug\TestClobOrm.exe
+D:\TestRoom\github\ScFramework\TestClobOrm\obj\Debug\TestClobOrm.pdb
+D:\TestRoom\github\TestClobOrm\TestClobOrm\bin\Debug\TestClobOrm.exe.config
+D:\TestRoom\github\TestClobOrm\TestClobOrm\obj\Debug\TestClobOrm.exe
+D:\TestRoom\github\TestClobOrm\TestClobOrm\obj\Debug\TestClobOrm.pdb
